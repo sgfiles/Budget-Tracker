@@ -43,11 +43,8 @@
 
 
   ## Deployed
-  Heroku:
+  Heroku:https://floating-fjord-19190.herokuapp.com/
   
-  MongoDB Atlas:
- 
-
   ## Email
   Questions about this project may be directed here.
   gired0329@yahoo.com
